@@ -1,1 +1,11 @@
-# krasilnikovevgraf13-a11y-krasilnikovevgraf17-a11y.gi.io
+# Программист в деле
+
+Обычная структура статического сайта:
+
+- HTML: `index.html`, `About.html`, `Service.html`, `My progect.html`
+- CSS: `style.css`
+- JavaScript: `script.js`
+- Изображение: `it.png`
+
+Переходы между внутренними страницами выполняются обычной навигацией браузера.
+Содержимое старой страницы не добавляется к новой: новый HTML-документ заменяет предыдущий.
